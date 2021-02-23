@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mirrorapp-dev-114052-authRole",
+      "UnauthRoleArn": "arn:aws:iam::629613616328:role/amplify-mirrorapp-dev-114052-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::629613616328:role/amplify-mirrorapp-dev-114052-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mirrorapp-dev-114052-deployment",
+      "UnauthRoleName": "amplify-mirrorapp-dev-114052-unauthRole",
+      "StackName": "amplify-mirrorapp-dev-114052",
+      "StackId": "arn:aws:cloudformation:us-east-1:629613616328:stack/amplify-mirrorapp-dev-114052/e63cbe70-75f5-11eb-8617-0ac853a0932f",
+      "AmplifyAppId": "d2sxicbefyumkk"
+    },
+    "categories": {
+      "auth": {
+        "mirrorapp62b56bb8": {}
+      }
+    }
+  }
+}
